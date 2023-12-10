@@ -11,9 +11,6 @@
 Program ini dibuat guna memenuhi tugas ContactApp sederhana yang berdasarkan dari Youtube channel WEB Programming Unpas dan Repository nya.
 
 
-
-Link Dokumentasi : [Lihat dokumentasi](https://docs.google.com/document/d/18XHS89N9FA8VG7dwpwWEM4LW1jlIhUUJgeeVXSGfHUM/edit?usp=sharing)
-
 Link Referensi : [https://youtu.be/xrYD_IhmuTM?si=4bnVJTty_OUVIBu0](https://youtu.be/xrYD_IhmuTM?si=4bnVJTty_OUVIBu0)
 
 ## Screenshot Tampilan Website
